@@ -33,6 +33,7 @@
 *.suo
 Debug
 *.sdf
+*.test
 *.vcxproj
 *.filters
 *.tlog
