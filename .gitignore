@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+# MVSC files
+*.opensdf
+*.sln
+*.suo
+Debug
+*.vcxproj
+*.filters
+*.tlog
+*.idb
+*.pdb
+*.ilk
