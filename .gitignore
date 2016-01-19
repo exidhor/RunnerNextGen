@@ -31,7 +31,6 @@
 *.opensdf
 *.sln
 *.suo
-Debug
 *.sdf
 *.vcxproj
 *.filters
